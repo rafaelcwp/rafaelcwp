@@ -1,10 +1,7 @@
 ### Oii eu sou o Rafael Henrique, Designer Gráfico e Desenvolvedor!
 <div> 
   <img style="width:48%; height:250px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wzrafael&show_icons=true&theme=dark" />
-  
-  <img style="width:40%; height:250px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alexvieirask&layout=compact" /> 
-</div> 
-
+</div>
 <div style="display: inline-block"><br>
   <img align="center" alt="Rafa-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="Rafa-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />

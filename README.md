@@ -1,1 +1,1 @@
-### Oi eu sou o Rafael Henrique, Designer Gráfico e Desenvolvedor!
+### Hello! My name is Rafael, Graphic Designer and Dev!

@@ -1,8 +1,7 @@
 
   <h1 align="center">Hi 👋, I'm Rafael Henrique</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelcwp&theme=dark" alt="rafaelcwp" /></p>
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelcwp&theme=dark" width="400" height="200">
   <h3 align="left">Skills:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40">

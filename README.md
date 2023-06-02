@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40">
   <img src="https://i.ibb.co/jvC6d4g/InDes.png" width="40" height="40">
-  <img src="https://i.ibb.co/dkTC1px/delphi.png" width="40" height="40">
+  <img src="https://i.ibb.co/XJhkcYW/Delphi-11.png" Width="40" height="40">
   
   <h3 align="left">Social:</h3>
 <p align="left">

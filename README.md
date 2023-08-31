@@ -17,9 +17,12 @@
  
   ### Main skills:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40">
-  <img src="https://i.ibb.co/jvC6d4g/InDes.png" width="40" height="40">
+  <img src="https://i.ibb.co/Gs95pbr/Adobe-Photoshop-CC-icon-svg.png" width="40" height="40">
+  <img src="https://i.ibb.co/LJ55sd8/Adobe-Illustrator-CC-icon-svg.png" width="40" height="40">
+  <img src="https://i.ibb.co/7J5YcZK/Adobe-In-Design-CC-icon-svg.png" width="40" height="40">
+  <img src="https://i.ibb.co/1dHDsqN/Figma-Logo.png" widht="40" height="40">
+  <img src="https://i.ibb.co/bQFB0My/HTML.png" widht="40" height="40">
+  <img src="https://i.ibb.co/LCV80fb/CSS.png" widht="40" height="40">
   <img src="https://i.ibb.co/XJhkcYW/Delphi-11.png" Width="40" height="40">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B4FFF&height=120&section=footer"/>

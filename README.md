@@ -21,6 +21,7 @@
   <img src="https://i.ibb.co/LJ55sd8/Adobe-Illustrator-CC-icon-svg.png" width="40" height="40">
   <img src="https://i.ibb.co/7J5YcZK/Adobe-In-Design-CC-icon-svg.png" width="40" height="40">
   <img src="https://i.ibb.co/1dHDsqN/Figma-Logo.png" widht="40" height="40">
+  <img src="https://i.ibb.co/vDGVqkk/Corel.png" widht="40" height="40">
   <img src="https://i.ibb.co/XJhkcYW/Delphi-11.png" Width="40" height="40">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B4FFF&height=120&section=footer"/>
